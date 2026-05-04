@@ -1746,7 +1746,6 @@ ff02::3 ip6-allhosts
 # Added February 26, 2021
 0.0.0.0 b174.s240.meetrics.net
 0.0.0.0 b95.s79.research.de.com
-0.0.0.0 bid.sxp.smartclip.net
 0.0.0.0 customers-lidl.kameleoon.com
 0.0.0.0 eu-tlp01.kameleoon.eu
 0.0.0.0 eu-tlp02.kameleoon.eu
@@ -12389,13 +12388,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ww3050.smartadserver.com
 0.0.0.0 ww3232.smartadserver.com
 0.0.0.0 www9.smartadserver.com
-
-# [smartclip.net]
-0.0.0.0 smartclip.net
-0.0.0.0 stats.smartclip.net
-0.0.0.0 sxp.smartclip.net
-0.0.0.0 stats.sxp.smartclip.net
-0.0.0.0 sync.sxp.smartclip.net
 
 # [smartechmetrics.com]
 0.0.0.0 api.smartechmetrics.com
@@ -65906,7 +65898,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracker.leadenhancer.com
 0.0.0.0 morehitserver.com
 0.0.0.0 track.shop2market.com
-0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 r.yieldkit.com
 0.0.0.0 srv.uk.znaptag.com
 # [Amazon.com][AS16509][177.71.190.213]
@@ -77160,7 +77151,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.repubblica.it
 0.0.0.0 ad.search.ch
 0.0.0.0 ad.sensismediasmart.com
-0.0.0.0 ad.smartclip.net
 0.0.0.0 ad.thetyee.ca
 0.0.0.0 ad.thewheelof.com
 0.0.0.0 ad.thisav.com
@@ -81001,7 +80991,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 smarine.mu
 0.0.0.0 smart-scripts.com
 0.0.0.0 smartadserver.com
-0.0.0.0 smartclip.com
 0.0.0.0 smartcontext.pl
 0.0.0.0 smartinit.webads.nl
 0.0.0.0 smartlifeguides.com
