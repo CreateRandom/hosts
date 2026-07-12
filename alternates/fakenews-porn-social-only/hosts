@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 02 May 2026 15:09:50 (UTC)
+# Date: 09 July 2026 11:47:21 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, porn, social
-# Number of unique domains: 82,158
+# Number of unique domains: 82,182
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -1883,7 +1883,6 @@
 0.0.0.0 wastachnews.com
 0.0.0.0 waterfilters.news
 0.0.0.0 waterfordtoday.com
-0.0.0.0 waterfordwhispersnews.com
 0.0.0.0 waterlooreview.com
 0.0.0.0 waterlootimes.com
 0.0.0.0 waterwars.news
@@ -2213,9 +2212,9 @@
 0.0.0.0 yubasuttertimes.com
 0.0.0.0 zombie.news
 # Title: hostsVN Adult VN
-# Last modified: 23 Apr 2026 14:57 UTC+7
-# Version: 2604231457
-# Blocked: 1.868 domains
+# Last modified: 09 Jul 2026 14:52 UTC+7
+# Version: 2607091452
+# Blocked: 1.895 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2307,6 +2306,16 @@
 0.0.0.0 buomxinh.org
 0.0.0.0 callboyvn.net
 0.0.0.0 cangcuc.com
+0.0.0.0 cap3.autos
+0.0.0.0 cap3.beer
+0.0.0.0 cap3.click
+0.0.0.0 cap3.monster
+0.0.0.0 cap3.pics
+0.0.0.0 cap3.pro
+0.0.0.0 cap3.quest
+0.0.0.0 cap3.rest
+0.0.0.0 cap3.sex
+0.0.0.0 cap3.shop
 0.0.0.0 catewalk.com
 0.0.0.0 cd-taxi.com
 0.0.0.0 cdn.javhd.vc
@@ -2436,6 +2445,7 @@
 0.0.0.0 ditnhau.xyz
 0.0.0.0 ditnhau69.com
 0.0.0.0 dmsex.net
+0.0.0.0 doctruyen14.biz
 0.0.0.0 doctruyen3qv.pro
 0.0.0.0 doctruyen3qvn.com
 0.0.0.0 doctruyennguoilonhay.blogspot.com
@@ -2639,6 +2649,7 @@
 0.0.0.0 heo69.com
 0.0.0.0 heo69.icu
 0.0.0.0 heo69.top
+0.0.0.0 heodamtv.us
 0.0.0.0 heodem.com
 0.0.0.0 heohay.com
 0.0.0.0 heomup.net
@@ -2802,6 +2813,7 @@
 0.0.0.0 laucua.top
 0.0.0.0 lauxanh.click
 0.0.0.0 lauxanhthiendia.com
+0.0.0.0 lauxanhtv.biz
 0.0.0.0 laysogaigoi.com
 0.0.0.0 lenlut.ac
 0.0.0.0 lenlut.blog
@@ -3233,6 +3245,12 @@
 0.0.0.0 pornpic.org
 0.0.0.0 pornzo.net
 0.0.0.0 pphimsex.com
+0.0.0.0 qmh.quest
+0.0.0.0 qmh.rest
+0.0.0.0 qmh.sex
+0.0.0.0 qmh.wtf
+0.0.0.0 qmhsex.cc
+0.0.0.0 qmhsex.online
 0.0.0.0 qq801.me
 0.0.0.0 qq887.live
 0.0.0.0 qq892.live
@@ -3244,7 +3262,9 @@
 0.0.0.0 quatvn.fit
 0.0.0.0 quatvn.fun
 0.0.0.0 quatvn.link
+0.0.0.0 quatvn.lol
 0.0.0.0 quatvn.love
+0.0.0.0 quatvn.moi
 0.0.0.0 quatvn.net
 0.0.0.0 quatvn.online
 0.0.0.0 quatvn.plus
@@ -3325,6 +3345,7 @@
 0.0.0.0 sexchich.pro
 0.0.0.0 sexchinaav.net
 0.0.0.0 sexcuto.net
+0.0.0.0 sexdacbiet.asia
 0.0.0.0 sexdacbiet.pro
 0.0.0.0 sexdamvl.com
 0.0.0.0 sexdate.nl
@@ -3371,6 +3392,7 @@
 0.0.0.0 sexhihi69.pro
 0.0.0.0 sexhihihi.net
 0.0.0.0 sexhihii.net
+0.0.0.0 sexhothd.com
 0.0.0.0 sexiezpix.com
 0.0.0.0 sexjav.cc
 0.0.0.0 sexkex.com
@@ -3422,6 +3444,7 @@
 0.0.0.0 sexphim3x.net
 0.0.0.0 sexphim3x.pro
 0.0.0.0 sexphim69.pro
+0.0.0.0 sexphimhays.pro
 0.0.0.0 sexphimhds.net
 0.0.0.0 sexphimtv.net
 0.0.0.0 sexphimx.pro
@@ -3561,6 +3584,7 @@
 0.0.0.0 solon.vip
 0.0.0.0 ssieukhung.com
 0.0.0.0 static.manhwa24hs.com
+0.0.0.0 stream.quatvn.lol
 0.0.0.0 subjav.live
 0.0.0.0 subjav.org
 0.0.0.0 subjav.sex
@@ -3859,6 +3883,7 @@
 0.0.0.0 vlxx.men
 0.0.0.0 vlxx.mobi
 0.0.0.0 vlxx.moe
+0.0.0.0 vlxx.moi
 0.0.0.0 vlxx.money
 0.0.0.0 vlxx.mx
 0.0.0.0 vlxx.net
@@ -3940,6 +3965,7 @@
 0.0.0.0 vuianime.tv
 0.0.0.0 vuighe.net
 0.0.0.0 vungtrom.xyz
+0.0.0.0 vungtromtv.blog
 0.0.0.0 wap3xdep.sextgem.com
 0.0.0.0 wapsex.wordpress.com
 0.0.0.0 waptuoinoiloan.blogspot.com
@@ -14620,7 +14646,6 @@
 0.0.0.0 sensexion.com
 0.0.0.0 sensualradar.com
 0.0.0.0 sensualwriter.com
-0.0.0.0 sentrypc.com
 0.0.0.0 seo1.org
 0.0.0.0 serve.ads.chaturbate.com
 0.0.0.0 serve.oxcluster.com
@@ -15850,7 +15875,6 @@
 0.0.0.0 totalaccess.transsexualbarebacking.com
 0.0.0.0 totalexposure.com
 0.0.0.0 totallynsfw.com
-0.0.0.0 toteme.com
 0.0.0.0 touchmylips.com
 0.0.0.0 touhoufeet.booru.org
 0.0.0.0 toumpano.net
@@ -21952,7 +21976,6 @@
 0.0.0.0 www.sensexion.com
 0.0.0.0 www.sensualradar.com
 0.0.0.0 www.sensualwriter.com
-0.0.0.0 www.sentrypc.com
 0.0.0.0 www.serving.xxxwebtraffic.com
 0.0.0.0 www.serviporno.com
 0.0.0.0 www.sesso-gratis.info
@@ -22757,7 +22780,6 @@
 0.0.0.0 www.torylane.com
 0.0.0.0 www.totalexposure.com
 0.0.0.0 www.totallynsfw.com
-0.0.0.0 www.toteme.com
 0.0.0.0 www.touchmylips.com
 0.0.0.0 www.toumpano.net
 0.0.0.0 www.toxamedia.com
@@ -67209,6 +67231,8 @@
 0.0.0.0 totallyfreecam.com
 0.0.0.0 totallynakedteens.com
 0.0.0.0 totallyshemales.com
+0.0.0.0 toteme.com
+0.0.0.0 www.toteme.com
 0.0.0.0 totporno.com
 0.0.0.0 tounavi.net
 0.0.0.0 tour7me.com
